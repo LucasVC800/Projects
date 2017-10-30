@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSqFoot,MaterialCost,LaborCost,Tax,Total
+1,Lucas,OH,2017-09-22,Wood,200.0,1600.00,1600.00,208.00,3408.00
